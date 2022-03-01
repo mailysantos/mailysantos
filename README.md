@@ -1,9 +1,10 @@
-## :woman_technologist: Hello!
+## :woman_technologist: Welcome!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mailysantos/)](https://www.linkedin.com/in/mailysantos/)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mailysantos)](https://dev.to/mailysantos)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mailysantos)](https://twitter.com/mailysantos)
 
-My name is Maily Santos, Senior Software Developer and passionate about development. I'm a nerd, cinema lover, addicted to books, self-taught, always studying and very curious about how things work. Currently living in Minas Gerais, Brazil.
+My name is Maily. I'm a software engineer, nerd, cinema lover, addicted to books, self-taught, always studying and very curious about how things work. Currently living in Minas Gerais, Brazil.
+
+## [ALERT] This account is very outdated and most projects are deprecated.
+## Soon I will update with new projects.
 
 
